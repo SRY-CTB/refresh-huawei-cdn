@@ -14,4 +14,4 @@
 - `HUAWEI_CLOUD_CDN_BASE_URL` - 网站地址，例如 https://example.com，一定**不要**在末尾加斜杠
 
 ## 注意
-请先判断当前账号是华为账号还是华为云账号，可以根据https://support.huaweicloud.com/account_faq/faq_id_0009.html判断。华为账号获取Token需要创建IAM账户，授予该用户必要的权限，可以查看https://support.huaweicloud.com/api-iam/iam_30_0001.html。华为云账号获取Token无特殊要求。
+请先判断当前账号是华为账号还是华为云账号，可以根据 https://support.huaweicloud.com/account_faq/faq_id_0009.html 判断。华为账号获取Token需要创建IAM账户，授予该用户必要的权限，可以查看 https://support.huaweicloud.com/api-iam/iam_30_0001.html 。华为云账号获取Token无特殊要求。
